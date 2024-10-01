@@ -41,7 +41,7 @@ background-position:center;
 <table borders=5 bgcolor=whote cellpadding=10 width =75%
 <td><center>
  <image src= "International.jpg" height=750>
-<image src= "International2.jpg" height=750>
+<image src= "international2.jpg" height=750>
 <image src= "Steak and Grill.jpg" height=750>
 <image src= "Pasta.jpg" height=750>
 <center><image src= "Salad.jpg" height=750>
