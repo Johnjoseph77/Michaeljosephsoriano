@@ -20,7 +20,7 @@ JOSEPH'S RESTAURANT</h1></center></h1>
 WELCOME TO JOSEPH'S RESTAURANT AMERICAN FOOD</h3></marquee>
 <marquee direction="right";> <image src= "International.jpg" height=400>
 <image src= "International.jpg" height=400>
-<image src= "International2.jpg" height=400>
+<image src= "international2.jpg" height=400>
 <image src= "Steak and Grill.jpg" height=400>
 <image src= "Pasta.jpg" height=400>
 <image src= "Appetizers.jpg" height=400>
