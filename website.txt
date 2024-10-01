@@ -1,0 +1,53 @@
+
+<html>
+<head> 
+<tittle></title>
+</head><style>
+body{
+background-image:url("web.jpg");
+background-repeat:no repeat;
+background-size:cover;
+background-position:center;
+}
+</style>
+<center><h
+<h3 style="font-size:40px;color:green;font-family;">
+<a href="home.html">BACK<a/><h/>
+<font color =blue>
+<h1 align =center>JOSEPH'S RESTAURANT</h1></font>
+<h2 align =center>MENU</h2>
+
+</center>
+<hr>
+<center>
+<table border=5 bgcolor=lightgray width=50%>
+<th>INTERNATIONAL</th>
+<th>STEAK AND GRILL</th>
+<th>PASTA</th>
+<th>SALAD</th>
+<th>APPETIZERS</th>
+<th>TEX-MEX</th>
+</table>
+</center>
+<marquee><h1>"SPECIAL AMERICAN FOOD"<h1></marquee>
+<hr><font color =brown>
+<center><h2>Contact</h2>
+<ul>
+<li><h3>09519298811</h2>
+<li><h4>Facebook:Michael Joseph Soriano</h3>
+<li><h5>Located at Brgy. 6 Mamburao Occidental Mindoro</h3>
+</li> </ul>
+</center>
+<table borders=5 bgcolor=whote cellpadding=10 width =75%
+<td><center>
+ <image src= "International.jpg" height=750>
+<image src= "International2.jpg" height=750>
+<image src= "Steak and Grill.jpg" height=750>
+<image src= "Pasta.jpg" height=750>
+<center><image src= "Salad.jpg" height=750>
+<image src= "Appetizers.jpg" height=750>
+<image src= "Tex-Mex.jpg" height=750>
+</td></center>
+</table>
+</body>
+</html>
